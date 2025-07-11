@@ -1,4 +1,3 @@
 # tetris
-Все пилят тетрисы, надо тоже попробовать
+Пробую накалякать консольные игрушки на сишечке
 
-Кое-что подсмотрел вот [тут](https://codereview.stackexchange.com/questions/136406/tetris-in-c-in-200-lines)
